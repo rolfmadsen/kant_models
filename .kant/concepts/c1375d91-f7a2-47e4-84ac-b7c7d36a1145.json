@@ -1,0 +1,15 @@
+{
+  "accepted_term": null,
+  "application_note": null,
+  "belongs_to_domain": "Yes",
+  "comment": null,
+  "definition": "User of git repo",
+  "deprecated_term": null,
+  "derived_from": null,
+  "example": null,
+  "id": "c1375d91-f7a2-47e4-84ac-b7c7d36a1145",
+  "identifier": null,
+  "legal_source": null,
+  "preferred_term": "GitUser",
+  "source": null
+}
