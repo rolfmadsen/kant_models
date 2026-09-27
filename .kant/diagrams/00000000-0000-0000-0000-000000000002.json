@@ -2,5 +2,22 @@
   "diagram_type": "ClassDiagram",
   "id": "00000000-0000-0000-0000-000000000002",
   "name": "Informationsmodel",
-  "nodes": []
+  "nodes": [
+    {
+      "class_id": "7e3fa800-c493-46c2-a431-81c958141bad",
+      "height": 80.0,
+      "id": "142180ed-0dc3-496c-84aa-e13de5acb477",
+      "width": 220.0,
+      "x": 60.0,
+      "y": 300.0
+    },
+    {
+      "class_id": "3d551669-84f6-4b90-9075-c3d0cefe82d1",
+      "height": 80.0,
+      "id": "e17da0a1-8999-4d51-a641-88f601f29a10",
+      "width": 220.0,
+      "x": 60.0,
+      "y": 60.0
+    }
+  ]
 }

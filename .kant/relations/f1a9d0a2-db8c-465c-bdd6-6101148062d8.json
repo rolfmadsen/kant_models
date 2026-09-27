@@ -1,0 +1,10 @@
+{
+  "directed": true,
+  "from": "c1375d91-f7a2-47e4-84ac-b7c7d36a1145",
+  "id": "f1a9d0a2-db8c-465c-bdd6-6101148062d8",
+  "kind": "Association",
+  "relation_type": "ConceptRelation",
+  "source_port": "Left",
+  "target_port": "Right",
+  "to": "2197fc8a-6dab-48fe-8f4d-e6fc4889b475"
+}

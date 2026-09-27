@@ -1,0 +1,15 @@
+{
+  "accepted_term": null,
+  "application_note": null,
+  "belongs_to_domain": "Yes",
+  "comment": null,
+  "definition": "A file in a repo",
+  "deprecated_term": null,
+  "derived_from": null,
+  "example": null,
+  "id": "ae35e6db-4882-4f96-b880-dcd0110ce3c2",
+  "identifier": null,
+  "legal_source": null,
+  "preferred_term": "File",
+  "source": null
+}

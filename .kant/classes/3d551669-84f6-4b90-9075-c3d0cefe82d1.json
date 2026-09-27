@@ -1,0 +1,12 @@
+{
+  "attributes": [],
+  "concept_ids": [
+    "c1375d91-f7a2-47e4-84ac-b7c7d36a1145"
+  ],
+  "description": "User of git repo",
+  "id": "3d551669-84f6-4b90-9075-c3d0cefe82d1",
+  "is_abstract": false,
+  "is_local": true,
+  "name": "GitUser",
+  "origin_model": null
+}

@@ -1,0 +1,12 @@
+{
+  "attributes": [],
+  "concept_ids": [
+    "2197fc8a-6dab-48fe-8f4d-e6fc4889b475"
+  ],
+  "description": "Git repository",
+  "id": "7e3fa800-c493-46c2-a431-81c958141bad",
+  "is_abstract": false,
+  "is_local": true,
+  "name": "repo",
+  "origin_model": null
+}

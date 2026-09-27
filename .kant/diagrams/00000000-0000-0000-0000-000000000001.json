@@ -14,13 +14,23 @@
       "y": 60.0
     },
     {
+      "concept_id": "ae35e6db-4882-4f96-b880-dcd0110ce3c2",
+      "height": 80.0,
+      "id": "ae35e6db-4882-4f96-b880-dcd0110ce3c2",
+      "is_local": true,
+      "label": "File",
+      "width": 180.0,
+      "x": 520.0,
+      "y": 60.0
+    },
+    {
       "concept_id": "c1375d91-f7a2-47e4-84ac-b7c7d36a1145",
       "height": 80.0,
       "id": "c1375d91-f7a2-47e4-84ac-b7c7d36a1145",
       "is_local": true,
       "label": "GitUser",
       "width": 180.0,
-      "x": 290.0,
+      "x": 300.0,
       "y": 60.0
     }
   ]

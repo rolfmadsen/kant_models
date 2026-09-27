@@ -1,0 +1,18 @@
+{
+  "directed": true,
+  "from": "e17da0a1-8999-4d51-a641-88f601f29a10",
+  "id": "8c13659b-0a8e-4605-aba6-2b4a0c1231e1",
+  "kind": "Association",
+  "relation_type": "ClassRelation",
+  "source_multiplicity": {
+    "lower": 1,
+    "upper": 1
+  },
+  "source_port": "Bottom",
+  "target_multiplicity": {
+    "lower": 0,
+    "upper": null
+  },
+  "target_port": "Top",
+  "to": "142180ed-0dc3-496c-84aa-e13de5acb477"
+}
