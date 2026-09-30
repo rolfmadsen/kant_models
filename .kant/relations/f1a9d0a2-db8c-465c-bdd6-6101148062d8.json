@@ -4,7 +4,7 @@
   "id": "f1a9d0a2-db8c-465c-bdd6-6101148062d8",
   "kind": "Association",
   "relation_type": "ConceptRelation",
-  "source_port": "Left",
-  "target_port": "Right",
+  "source_port": "Top",
+  "target_port": "Bottom",
   "to": "2197fc8a-6dab-48fe-8f4d-e6fc4889b475"
 }
